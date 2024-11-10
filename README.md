@@ -2,7 +2,7 @@
 # PasswordManager
 
 An *experimental* password manager based on [TheProtocols](https://theprotocols.islekcaganmert.me/)
-![demo](https://raw.githubusercontent.com/islekcaganmert/PasswordManager/refs/heads/master/tests/screenshot.png)[![TheProtocols](https://img.shields.io/badge/TheProtocols-Synced-green
+![demo](https://raw.githubusercontent.com/islekcaganmert/PasswordManager/refs/heads/main/tests/screenshot.png)[![TheProtocols](https://img.shields.io/badge/TheProtocols-Synced-green
 )](https://theprotocols.islekcaganmert.me/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
